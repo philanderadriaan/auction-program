@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auctions>
+  <next_item_id>3</next_item_id>
+  <auction>
+    <name>A NPO-5-1-2012</name>
+    <contact_name>A Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>4</month>
+      <day>1</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>4</month>
+      <day>1</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>A NPO</npo>
+  </auction>
+  <auction>
+    <name>B NPO-5-30-2012</name>
+    <contact_name>B Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>4</month>
+      <day>30</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>4</month>
+      <day>30</day>
+      <hour>13</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>B NPO</npo>
+    <item>
+      <item_id>0</item_id>
+      <name>djsodjos</name>
+      <quantity>2</quantity>
+      <minimum_bid>30.0</minimum_bid>
+      <donor />
+      <size>NONE</size>
+      <storage />
+      <condition>NONE</condition>
+      <comments />
+    </item>
+    <item>
+      <item_id>2</item_id>
+      <name>fdzsfdhshf</name>
+      <quantity>1</quantity>
+      <minimum_bid>100.0</minimum_bid>
+      <donor />
+      <size>SMALL</size>
+      <storage />
+      <condition>LIKE_NEW</condition>
+      <comments />
+    </item>
+  </auction>
+  <auction>
+    <name>C NPO-6-3-2012</name>
+    <contact_name>C Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>3</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>3</day>
+      <hour>13</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>C NPO</npo>
+    <item>
+      <item_id>1</item_id>
+      <name>cvcvcv</name>
+      <quantity>33</quantity>
+      <minimum_bid>45666.0</minimum_bid>
+      <donor />
+      <size>NONE</size>
+      <storage />
+      <condition>NONE</condition>
+      <comments />
+    </item>
+  </auction>
+  <auction>
+    <name>D NPO-6-4-2012</name>
+    <contact_name>D Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>4</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>4</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>D NPO</npo>
+  </auction>
+  <auction>
+    <name>E NPO-6-5-2012</name>
+    <contact_name>E Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>5</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>5</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>E NPO</npo>
+  </auction>
+  <auction>
+    <name>F NPO-6-7-2012</name>
+    <contact_name>F Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>7</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>7</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>F NPO</npo>
+  </auction>
+  <auction>
+    <name>G NPO-6-9-2012</name>
+    <contact_name>G Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>9</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>9</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>G NPO</npo>
+  </auction>
+  <auction>
+    <name>H NPO-6-11-2012</name>
+    <contact_name>H Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>11</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>11</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>H NPO</npo>
+  </auction>
+  <auction>
+    <name>I NPO-6-13-2012</name>
+    <contact_name>I Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>13</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>13</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>I NPO</npo>
+  </auction>
+  <auction>
+    <name>J NPO-6-15-2012</name>
+    <contact_name>J Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>15</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>15</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>J NPO</npo>
+  </auction>
+  <auction>
+    <name>K NPO-6-17-2012</name>
+    <contact_name>K Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>17</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>17</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>K NPO</npo>
+  </auction>
+  <auction>
+    <name>L NPO-6-19-2012</name>
+    <contact_name>L Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>19</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>19</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>L NPO</npo>
+  </auction>
+  <auction>
+    <name>M NPO-6-21-2012</name>
+    <contact_name>M Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>21</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>21</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>M NPO</npo>
+  </auction>
+  <auction>
+    <name>N NPO-6-23-2012</name>
+    <contact_name>N Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>23</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>23</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>N NPO</npo>
+  </auction>
+  <auction>
+    <name>O NPO-6-25-2012</name>
+    <contact_name>O Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>25</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>25</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>O NPO</npo>
+  </auction>
+  <auction>
+    <name>P NPO-6-27-2012</name>
+    <contact_name>P Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>27</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>27</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>P NPO</npo>
+  </auction>
+  <auction>
+    <name>Q NPO-6-29-2012</name>
+    <contact_name>Q Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>29</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>29</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>Q NPO</npo>
+  </auction>
+  <auction>
+    <name>R NPO-7-1-2012</name>
+    <contact_name>R Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>1</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>1</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>R NPO</npo>
+  </auction>
+  <auction>
+    <name>S NPO-7-3-2012</name>
+    <contact_name>S Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>3</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>3</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>S NPO</npo>
+  </auction>
+  <auction>
+    <name>T NPO-7-5-2012</name>
+    <contact_name>T Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>5</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>5</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>T NPO</npo>
+  </auction>
+  <auction>
+    <name>U NPO-7-7-2012</name>
+    <contact_name>U Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>7</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>7</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>U NPO</npo>
+  </auction>
+  <auction>
+    <name>V NPO-7-9-2012</name>
+    <contact_name>V Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>9</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>9</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>V NPO</npo>
+  </auction>
+  <auction>
+    <name>W NPO-7-11-2012</name>
+    <contact_name>W Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>11</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>11</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>W NPO</npo>
+  </auction>
+  <auction>
+    <name>X NPO-7-13-2012</name>
+    <contact_name>X Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>13</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>13</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>X NPO</npo>
+  </auction>
+  <auction>
+    <name>Y NPO-7-15-2012</name>
+    <contact_name>Y Contact</contact_name>
+    <contact_phone_number>1231231234</contact_phone_number>
+    <ac_intaker />
+    <start_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>15</day>
+      <hour>9</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>6</month>
+      <day>15</day>
+      <hour>10</hour>
+      <minute>0</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>10</expected_item_count>
+    <comments />
+    <npo>Y NPO</npo>
+  </auction>
+</auctions>

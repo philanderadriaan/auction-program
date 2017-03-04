@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <name>Tyson</name>
+    <type>BIDDER</type>
+  </user>
+  <user>
+    <name>You</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>ActionAid</npo_name>
+  </user>
+  <user>
+    <name>Phil</name>
+    <type>BIDDER</type>
+  </user>
+  <user>
+  	<name>Art Vandelay</name>
+  	<type>BIDDER</type>
+  </user>
+  <user>
+  	<name>David Putty</name>
+  	<type>NPO</type>
+  	<phone_number>(452) 522-6643</phone_number>
+  	<npo_name>Ask the 8-Ball</npo_name>
+  </user>
+  <user>
+  	<name>Joe Davola</name>
+  	<type>ACE</type>
+  </user>
+</users>

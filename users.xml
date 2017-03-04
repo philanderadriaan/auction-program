@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <name>Tyson</name>
+    <type>ACE</type>
+  </user>
+  <user>
+    <name>You</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>ActionAid</npo_name>
+  </user>
+  <user>
+    <name>Phil</name>
+    <type>BIDDER</type>
+  </user>
+  <user>
+    <name>Joe</name>
+    <type>BIDDER</type>
+  </user>
+  <user>
+    <name>Chuck</name>
+    <type>BIDDER</type>
+  </user>
+  <user>
+    <name>A</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>A NPO</npo_name>
+  </user>
+  <user>
+    <name>B</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>B NPO</npo_name>
+  </user>
+  <user>
+    <name>C</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>C NPO</npo_name>
+  </user>
+  <user>
+    <name>D</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>D NPO</npo_name>
+  </user>
+  <user>
+    <name>E</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>E NPO</npo_name>
+  </user>
+  <user>
+    <name>F</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>F NPO</npo_name>
+  </user>
+  <user>
+    <name>G</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>G NPO</npo_name>
+  </user>
+  <user>
+    <name>H</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>H NPO</npo_name>
+  </user>
+  <user>
+    <name>I</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>I NPO</npo_name>
+  </user>
+  <user>
+    <name>J</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>J NPO</npo_name>
+  </user>
+  <user>
+    <name>K</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>K NPO</npo_name>
+  </user>
+  <user>
+    <name>L</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>L NPO</npo_name>
+  </user>
+  <user>
+    <name>M</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>M NPO</npo_name>
+  </user>
+  <user>
+    <name>N</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>N NPO</npo_name>
+  </user>
+  <user>
+    <name>O</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>O NPO</npo_name>
+  </user>
+  <user>
+    <name>P</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>P NPO</npo_name>
+  </user>
+  <user>
+    <name>Q</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>Q NPO</npo_name>
+  </user>
+  <user>
+    <name>R</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>R NPO</npo_name>
+  </user>
+  <user>
+    <name>S</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>S NPO</npo_name>
+  </user>
+  <user>
+    <name>T</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>T NPO</npo_name>
+  </user>
+    <user>
+    <name>U</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>U NPO</npo_name>
+  </user>
+  <user>
+    <name>V</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>V NPO</npo_name>
+  </user>
+  <user>
+    <name>W</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>W NPO</npo_name>
+  </user>
+  <user>
+    <name>X</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>X NPO</npo_name>
+  </user>
+  <user>
+    <name>Y</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>Y NPO</npo_name>
+  </user>
+  <user>
+    <name>Z</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>Z NPO</npo_name>
+  </user>
+  <user>
+    <name>AA</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>AA NPO</npo_name>
+  </user>
+  <user>
+    <name>BB</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>BB NPO</npo_name>
+  </user>
+  <user>
+    <name>CC</name>
+    <type>NPO</type>
+    <phone_number>(555) 555-5555</phone_number>
+    <npo_name>CC NPO</npo_name>
+  </user>
+</users>

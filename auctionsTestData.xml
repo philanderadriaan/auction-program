@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auctions>
+  <next_item_id>0</next_item_id>
+  <auction>
+    <name>ActionAid-5-15-2012</name>
+    <contact_name>Sophia</contact_name>
+    <contact_phone_number>425-111-2012</contact_phone_number>
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>15</day>
+      <hour>9</hour>
+      <minute>30</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>15</day>
+      <hour>12</hour>
+      <minute>30</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>12</expected_item_count>
+    <comments>To help poor people</comments>
+    <npo>ActionAid</npo>
+    <item>
+      <item_id>81</item_id>
+      <name>Kawasaki Ninja 250R</name>
+      <quantity>10</quantity>
+      <minimum_bid>10000.0</minimum_bid>
+      <donor>Anonymous</donor>
+      <size>LARGE</size>
+      <storage>Classified</storage>
+      <condition>NEW</condition>
+      <comments>4th gen</comments>
+      <high_bidder>Phil</high_bidder>
+      <high_bid>10000.01</high_bid>
+    </item>
+    <item>
+      <item_id>82</item_id>
+      <name>iPhone</name>
+      <quantity>1</quantity>
+      <minimum_bid>200.0</minimum_bid>
+      <donor>Anonymous</donor>
+      <size>SMALL</size>
+      <storage>Classified</storage>
+      <condition>NEW</condition>
+      <comments>2nd gen</comments>
+      <high_bidder>Tyson</high_bidder>
+      <high_bid>250.0</high_bid>
+    </item>
+  </auction>
+  <auction>
+    <name>YouthHelp-5-16-2012</name>
+    <contact_name>David</contact_name>
+    <contact_phone_number>504-987-0000</contact_phone_number>
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>16</day>
+      <hour>14</hour>
+      <minute>30</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>16</day>
+      <hour>16</hour>
+      <minute>30</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>14</expected_item_count>
+    <comments></comments>
+    <npo>YouthHelp</npo>
+    <item>
+      <item_id>12</item_id>
+      <name>Nikon Coolpix S4000</name>
+      <quantity>1</quantity>
+      <minimum_bid>100.0</minimum_bid>
+      <donor>Bob Sacamano</donor>
+      <size>SMALL</size>
+      <storage>Storage A</storage>
+      <condition>LIKE_NEW</condition>
+      <comments>Red</comments>
+      <high_bidder>Tyson</high_bidder>
+      <high_bid>300.0</high_bid>
+    </item>
+  </auction>
+</auctions>

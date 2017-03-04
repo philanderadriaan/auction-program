@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auctions>
+  <next_item_id>0</next_item_id>
+  <auction>
+    <name>ActionAid-5-15-2012</name>
+    <contact_name>Sophia</contact_name>
+    <contact_phone_number>425-111-2012</contact_phone_number>
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>15</day>
+      <hour>9</hour>
+      <minute>30</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>15</day>
+      <hour>12</hour>
+      <minute>30</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>12</expected_item_count>
+    <comments>To help poor people</comments>
+    <npo>ActionAid</npo>
+    <item>
+      <item_id>81</item_id>
+      <name>Kawasaki Ninja 250R</name>
+      <quantity>10</quantity>
+      <minimum_bid>10000.0</minimum_bid>
+      <donor>Anonymous</donor>
+      <size>LARGE</size>
+      <storage>Classified</storage>
+      <condition>NEW</condition>
+      <comments>4th gen</comments>
+      <high_bidder>Phil</high_bidder>
+      <high_bid>10000.01</high_bid>
+    </item>
+    <item>
+      <item_id>82</item_id>
+      <name>iPhone</name>
+      <quantity>1</quantity>
+      <minimum_bid>200.0</minimum_bid>
+      <donor>Anonymous</donor>
+      <size>SMALL</size>
+      <storage>Classified</storage>
+      <condition>NEW</condition>
+      <comments>2nd gen</comments>
+      <high_bidder>Tyson</high_bidder>
+      <high_bid>250.0</high_bid>
+    </item>
+    <item>
+      <item_id>83</item_id>
+      <name>Autographed Boxing Gloves</name>
+      <quantity>1</quantity>
+      <minimum_bid>100.0</minimum_bid>
+      <donor>James Toney</donor>
+      <size>SMALL</size>
+      <storage>Old School Gym</storage>
+      <condition>ACCEPTABLE</condition>
+      <comments>Autographed by James Toney</comments>
+      <high_bidder>Tyson</high_bidder>
+      <high_bid>300.0</high_bid>
+    </item>
+    <item>
+      <item_id>84</item_id>
+      <name>Chewing Gum</name>
+      <quantity>1</quantity>
+      <minimum_bid>0.01</minimum_bid>
+      <donor>Wrigley</donor>
+      <size>EXTRA_SMALL</size>
+      <storage>Factory</storage>
+      <condition>LIKE_NEW</condition>
+      <comments>Juicy Fruit Flavor</comments>
+    </item>
+    <item>
+      <item_id>85</item_id>
+      <name>Medical Syringes</name>
+      <quantity>100</quantity>
+      <minimum_bid>10.0</minimum_bid>
+      <donor>American Medical Association</donor>
+      <size>EXTRA_SMALL</size>
+      <storage>Dr J's Clinic</storage>
+      <condition>NEW</condition>
+      <comments>28 grams, 1cc</comments>
+    </item>
+    <item>
+      <item_id>86</item_id>
+      <name>Christmas Tree</name>
+      <quantity>1</quantity>
+      <minimum_bid>100.0</minimum_bid>
+      <donor>Botanical Society of America</donor>
+      <size>LARGE</size>
+      <storage>Gas St. Greenhouse</storage>
+      <condition>VERY_GOOD</condition>
+      <comments>Decorations Not Included</comments>
+    </item>
+    <item>
+      <item_id>87</item_id>
+      <name>Gothic Cross Necklace</name>
+      <quantity>1</quantity>
+      <minimum_bid>100000.0</minimum_bid>
+      <donor>Tropic Goth Store</donor>
+      <size>SMALL</size>
+      <storage>Tropic Goth Store</storage>
+      <condition>NEW</condition>
+      <comments>73ct Black Diamond</comments>
+    </item>
+    <item>
+      <item_id>88</item_id>
+      <name>Mining Helmet</name>
+      <quantity>1</quantity>
+      <minimum_bid>0.9</minimum_bid>
+      <donor>Unknown</donor>
+      <size>SMALL</size>
+      <storage>My Basement</storage>
+      <condition>ACCEPTABLE</condition>
+      <comments>For Coal Mining</comments>
+    </item>
+  </auction>
+  <auction>
+    <name>YouthHelp-5-16-2012</name>
+    <contact_name>David</contact_name>
+    <contact_phone_number>504-987-0000</contact_phone_number>
+    <start_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>16</day>
+      <hour>14</hour>
+      <minute>30</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>5</month>
+      <day>16</day>
+      <hour>16</hour>
+      <minute>30</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>14</expected_item_count>
+    <comments></comments>
+    <npo>YouthHelp</npo>
+    <item>
+      <item_id>89</item_id>
+      <name>Burglar Alarm</name>
+      <quantity>1</quantity>
+      <minimum_bid>100.0</minimum_bid>
+      <donor>Sisqo Systems Inc.</donor>
+      <size>SMALL</size>
+      <storage>Corporate Headquarters</storage>
+      <condition>NEW</condition>
+      <comments>For Home Security</comments>
+    </item>
+    <item>
+      <item_id>90</item_id>
+      <name>Folded Steel Katana</name>
+      <quantity>1</quantity>
+      <minimum_bid>1000.0</minimum_bid>
+      <donor>Sensei Kobayashi</donor>
+      <size>MEDIUM</size>
+      <storage>ホットドッグ Dojo</storage>
+      <condition>LIKE_NEW</condition>
+      <comments>Hand Made from Edo Period</comments>
+      <high_bidder>Phil</high_bidder>
+      <high_bid>1001.0</high_bid>
+    </item>
+  </auction>
+  <auction>
+    <name>YouthHelp-5-21-2012</name>
+    <contact_name>David</contact_name>
+    <contact_phone_number>504-987-0000</contact_phone_number>
+    <start_time>
+      <year>2012</year>
+      <month>4</month>
+      <day>21</day>
+      <hour>16</hour>
+      <minute>20</minute>
+      <second>0</second>
+    </start_time>
+    <end_time>
+      <year>2012</year>
+      <month>4</month>
+      <day>21</day>
+      <hour>16</hour>
+      <minute>21</minute>
+      <second>0</second>
+    </end_time>
+    <expected_item_count>12</expected_item_count>
+    <comments>To help teenagers</comments>
+    <npo>YouthHelp</npo>
+    <item>
+      <item_id>12</item_id>
+      <name>Nikon Coolpix S4000</name>
+      <quantity>1</quantity>
+      <minimum_bid>100.0</minimum_bid>
+      <donor>Bob Sacamano</donor>
+      <size>SMALL</size>
+      <storage>Storage A</storage>
+      <condition>LIKE_NEW</condition>
+      <comments>Red</comments>
+      <high_bidder>Tyson</high_bidder>
+      <high_bid>300.0</high_bid>
+    </item>
+  </auction>
+</auctions>
